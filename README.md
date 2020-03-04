@@ -1,4 +1,4 @@
-## Parking-System
+## Icon_Parking
 #### This is an Android app for Smart Parking System. Where both Client and Partner have their dashboard 
 ### Sample Images
 
